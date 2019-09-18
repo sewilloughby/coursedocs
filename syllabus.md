@@ -1,4 +1,4 @@
----
+﻿---
 description: >-
   This is the gitbooks <--> github (markdown) version of the syllabus, you can
   review the original Google docs-based syllabus at:
@@ -231,4 +231,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 Olivia Franzese  
 Janice Sobanski!  
 Tucker Boman Jack Robert Clonan - 9/8/2019 - I am making commits to this project.
-
+Stephanie Willoughby
